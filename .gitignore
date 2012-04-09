@@ -1,0 +1,8 @@
+
+/BoxExample/BoxExample/bin
+/BoxExample/BoxExample/obj
+*.suo
+*.cachefile
+*.exe
+/BoxExample/BoxExampleContent/bin
+/BoxExample/BoxExampleContent/obj
